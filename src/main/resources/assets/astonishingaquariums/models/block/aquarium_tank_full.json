@@ -1,0 +1,6 @@
+{
+  "parent": "astonishingaquariums:block/aquarium_tank",
+  "textures": {
+    "all": "minecraft:block/glass"
+  }
+}

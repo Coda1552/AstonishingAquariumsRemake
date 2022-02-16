@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=0": {
+      "model": "astonishingaquariums:block/aquarium_tank_full"
+    },
+    "type=1": {
+      "model": "astonishingaquariums:block/aquarium_tank_east_u"
+    },
+    "type=2": {
+      "model": "astonishingaquariums:block/aquarium_tank_west_u"
+    }
+  }
+}
